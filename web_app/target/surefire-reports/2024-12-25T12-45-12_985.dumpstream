@@ -1,0 +1,5 @@
+# Created at 2024-12-25T12:45:13.257
+Boot Manifest-JAR contains absolute paths in classpath 'd:\Aniruddh\star agile\js\web_app\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
